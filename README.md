@@ -1,1 +1,3 @@
 # Record-Store-Analysis
+
+In this project I work with a modified version of a database called Chinook (https://github.com/lerocha/chinook-database). The Chinook database contains information about a fictional digital music shop - kind of like a mini-iTunes store.  Using complex queries and data visualization I attempt to find how to make the shop more profitable.  The Chinook database contains information about the artists, songs, and albums from the music shop, as well as information on the shop's employees, customers, and the customers purchases. This information is contained in eleven tables. 
